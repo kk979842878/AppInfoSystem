@@ -36,7 +36,6 @@ public class AppInfo {
 	private String categoryLevel2Name;//所属二级分类名称
 	private String versionNo;//最新的版本号
 	
-	
 	public String getStatusName() {
 		return statusName;
 	}
